@@ -44,13 +44,16 @@ header{
 }
 
 .site-title{
-    color: white;
     font-family: var(--gugi);
 }
 
-.dropdown-toggle
-.dropdown-item
-button.id(dropdown-toggle){
+.sec-head{
+
+    color: rgb(153, 11, 11);
+}
+
+.container.dropdown-toggle
+.container.dropdown-item{
     font-size: 0.7em;
 }
 
