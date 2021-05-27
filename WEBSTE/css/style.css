@@ -40,10 +40,26 @@
 
 header{
     background-color: var(--primary-color);
+    font-family: var(--roboto);
+}
+
+.site-title{
+    color: white;
     font-family: var(--gugi);
 }
 
-.container.
+.dropdown-toggle
+.dropdown-item
+button.id(dropdown-toggle){
+    font-size: 0.7em;
+}
+
+.header-links a{
+    font-size: 0.9em;
+    text-decoration: none;
+    color: white;
+
+}
 
 
 
